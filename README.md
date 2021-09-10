@@ -26,7 +26,7 @@
 ![CodeIgniter](https://img.shields.io/badge/codeigniter-%23F05033.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Xampp](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![bracket](https://img.shields.io/badge/Bracket-66595C?style=for-the-badge&logo=Brackets&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
 **Gaming**
 <br />
