@@ -1,10 +1,10 @@
 # README.md
 
-### hi there, I'm Galih Anggoro Prasetya👋
+### Hi There, My Name Is Galih Anggoro Prasetya👋
 
-## I'm a Programmer!
-- 💻  I’m love coding!
-- 🌱  I’m keep learning technology software
+## I'm A Programmer!
+- 💻  I love Coding!
+- 🌱  I Keep learning software Technology
 - 👯  I’m looking to collaborate with other content creators
 - 🥅  My purpose : Programmer.
 
