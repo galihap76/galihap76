@@ -23,6 +23,9 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/codeigniter-%23F05033.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 
+**Social Links:**  
+
+<a href="https://www.facebook.com/galih.ap.357?id=100009019826862"><img src="https://img.shields.io/badge/-000000?color=ffffff&style=social&logo=Facebook"/></a>
 
 <br />
 <br />
