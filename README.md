@@ -3,10 +3,8 @@
 ### Hi There, My Name Is Galih Anggoro Prasetya👋
 
 ## I'm A Programmer!
-- 💻  I love Coding!
-- 🌱  I Keep learning software Technology
-- 👯  I’m looking to collaborate with other content creators
-- 🥅  My purpose : Programmer.
+- 💻  I love Coding
+- 🌱  I Keep learning Software Technology
 
 
 
@@ -33,5 +31,4 @@
 
 <img align="left" alt="Galih Anggoro Prasetya Github Stats" src="https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&hide_border=true" />
 
-[website]: https://---/
-[work]: https://---/
+[website]: https://galihanggoroprasetya.blogspot.com/?m=1work]: 
