@@ -6,7 +6,7 @@
 - 💻  Saya Menyukai Koding
 - 🌱  Saya Terus Belajar Dalam Hal Dunia Komputer
 - 🎮  Jika Saya Bosen Saya Bermain Game
-- 🏅  Cita Cita Ingin Menjadi Programmer
+- 🏅  Cita Cita Ingin Menjadi Pemrogram
 
 
 
