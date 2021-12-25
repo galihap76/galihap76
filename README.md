@@ -8,7 +8,9 @@
 - 🎮  Jika Saya Bosen Saya Bermain Game
 - 🏅  Cita Cita Ingin Menjadi Pemrogram
 
+# Bahasa Yang Di Gunakan
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+# Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&theme=dark)
