@@ -1,16 +1,12 @@
 # README.md
 
-# Hai, Nama Saya Adalah Galih Anggoro Prasetya👋
-
-# Saya Seorang Pelajar!
-- 💻  Saya Menyukai Koding
-- 🌱  Saya Terus Belajar Dalam Hal Dunia Komputer
-- 🎮  Jika Saya Bosen Saya Bermain Game
-- 🏅  Cita Cita Ingin Menjadi Pemrogram
+# Hai 👋
+Saya bernama galih anggoro prasetya. Saya menyukai koding atau hal mengenai dunia komputer dan saya terus belajar dalam ilmu pengetahuan komputer. Saya suka dalam mengembangkan aplikasi bahkan juga alat peretasan etis untuk keperluan pengujian penetrasi.
 
 # Bahasa Yang Di Gunakan
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+Beberapa bahasa yang pernah saya gunakan :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&langs_count=8&theme=white)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 # Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&theme=white)
