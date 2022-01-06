@@ -4,7 +4,7 @@
 
 <a href="https://github.com/rahul-jha98/github-stats-transparent">
 
-![](https://github.com/galihap76/github-stats-transparent/tree/output/generated/overview.svg)
-![](https://github.com/galihap76/github-stats-transparent/tree/output/generated/languages.svg)
+![](https://github.com/galihap76/github-stats-transparent/output/generated/overview.svg)
+![](https://github.com/galihap76/github-stats-transparent/output/generated/languages.svg)
 
 </a>
