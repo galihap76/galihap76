@@ -1,6 +1,6 @@
 # README.md
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Github;I Am+A+Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+My+Github;I+Am+A+Software+Developer)](https://git.io/typing-svg)
 
 # Beberapa Bahasa Yang Pernah Saya Gunakan
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&langs_count=8&theme=white)](https://github.com/anuraghazra/github-readme-stats)
