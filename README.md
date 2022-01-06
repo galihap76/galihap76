@@ -3,4 +3,4 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&bg_color=0000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&langs_count=5&&layout=compact&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&langs_count=8&&layout=compact&bg_color=0000)](https://github.com/anuraghazra/github-readme-stats)
