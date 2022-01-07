@@ -3,10 +3,10 @@
 </p>
 
 **About Me**
-- 💻 I 
-- 🌱 I Keep Learning About Computer
 - ❤️ I Love Writing Code And I Love Too Writing Article In My [Blog](https://gumayuntech.blogspot.com/)
-- 💬 Ask Me About Blogger
+- 🌱 I Keep Learning About Computer
+- 🛠️ Sometimes I Build Tool Hacking For Penetration Testing
+- 🎮 When I Have Free Time I Play Game
 
 **How To Reach Me**
 <br />
