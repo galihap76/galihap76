@@ -8,7 +8,7 @@
 - 🛠️ Sometimes I Build Tool Hacking For Penetration Testing
 - 🎮 When I Have Free Time I Play Game
 
-**How To Reach Me**
+**Connect With Me**
 <br />
 <br />
 [<img align="left" alt="vibhorchaudhary | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
