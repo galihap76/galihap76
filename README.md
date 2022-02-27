@@ -13,6 +13,7 @@
 - ![CodeIgniter](https://img.shields.io/badge/codeigniter-%23F05033.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 - ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+- [![Build Status](https://img.shields.io/travis/ivlevdenis/kivylng.svg?style=flat-square)](https://travis-ci.org/ivlevdenis/kivylng)
 
 **Connect With Me**
 <br />
