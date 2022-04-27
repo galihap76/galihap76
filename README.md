@@ -6,7 +6,7 @@
 - ❤️ I Love Writing Code And I Love Too Writing Article In My [Blog](https://gumayuntech.blogspot.com/)
 - 🌱 I Keep Learning About Computer
 - 💻 I Focus On PHP, Javascript, Python
-- 🛠️ Sometimes I Build Some Hacking Tools And Writing Exploit With Python
+- 🛠️ Sometimes I Build Some Hacking Tools With Python For Fun
 - 🎮 When I Have Free Time I Play Game
 
 **Framework**
