@@ -1,5 +1,5 @@
  <p align="center">
-  <a href="https://github.com/galihap76"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20github;My%20name%20is%20galih%20anggoro%20prasetya;I%20am%20a%20college%20student;&font=Fira%20Code&center=true&width=440&height=45&color=#36BCF7&vCenter=true&size=24"></a>
+  <a href="https://github.com/galihap76"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20my%20github;My%20name%20is%20galih%20anggoro%20prasetya;I%20am%20a%20college%20student;&font=Fira%20Code&center=true&width=440&height=45&color=#36BCF7&vCenter=true&size=30"></a>
 </p>
 
 **About Me**
