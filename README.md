@@ -3,16 +3,12 @@
 </p>
 
 **About Me**
-- ❤️ I Love Writing Code And I Love Too Writing Article In My [Blog](https://gumayuntech.blogspot.com/)
-- 🌱 I Keep Learning About Computer
-- 💻 I Focus On PHP, Javascript, Python
-- 🛠️ Sometimes I Build Some Hacking Tools With Python For Fun
-- 🎮 When I Have Free Time I Play Game
-
-**Framework**
-- ![CodeIgniter](https://img.shields.io/badge/codeigniter-%23F05033.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-- ![kivy](https://custom-icon-badges.herokuapp.com/badge/kivy-lightgrey?style=for-the-badge&logo=kivy&logoColor=black)
+- ❤️ I love writing code and i love too writing article in my [blog](https://gumayuntech.blogspot.com/)
+- 🌱 I keep learning about computer
+- 💻 I focus on php, javascript, python
+- 🧰 For some frameworks i focus on codeigniter, bootstrap
+- 🛠️ Sometimes i build some hacking tools with python for my fun
+- 🎮 When i have free time i play game
 
 **Connect With Me**
 <br />
