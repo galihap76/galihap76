@@ -7,7 +7,6 @@
 - 🌱 I keep learning about computer
 - 💻 I focus on php, javascript, python
 - 🧰 For some frameworks i focus on codeigniter, bootstrap
-- 🛠️ Sometimes i build some hacking tools with python for my fun
 - 🎮 When i have free time i play game
 
 **Connect With Me**
