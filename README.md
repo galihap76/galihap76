@@ -13,7 +13,7 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ College Student
+├─▣ Computer Student
 ├─▣ Content Writer
 │
 └───────────────────────────────▰▰▰
