@@ -18,9 +18,10 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ BLOG ├─────────▰▰▰
+┌──┤ PLATFORMS ├─────────▰▰▰
 │
-├─◈ <a href="https://gumayuntech.blogspot.com/">Gumayun Tech</a>
+├─◈ <a href="https://gumayuntech.blogspot.com/">Blogspot</a>
+├─◈ <a href="https://inwepo.co/author/galih-anggoro-prasetya/">Inwepo</a>
 │
 └───────────────────────────────▰▰▰
 
