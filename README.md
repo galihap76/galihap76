@@ -25,7 +25,7 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ PROGRAMMING LANGUAGES ├───────▰▰▰
+┌──┤ MOST USED LANGUAGES ├───────▰▰▰
 │
 ├─◈ Php
 ├─◈ Python
