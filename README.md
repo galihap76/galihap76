@@ -10,6 +10,7 @@ Hi, my name is galih anggoro prasetya i am a computer student at university STMI
 ![Php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Mysql](https://img.shields.io/badge/MySQL-808080?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/codeigniter-%23F05033.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 
