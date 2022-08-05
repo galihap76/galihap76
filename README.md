@@ -5,7 +5,8 @@ Hi, my name is galih anggoro prasetya i am a computer student at university STMI
 **Tech Stacks**
 
 ![image](https://user-images.githubusercontent.com/83481679/183071192-341df017-24a4-4554-8ebf-0369de82c1d1.png)
-![image](https://user-images.githubusercontent.com/83481679/183071252-d4fdd92d-b997-4a17-926c-353de82b09c5.png)
+![image](https://user-images.githubusercontent.com/83481679/183075147-460e041e-d446-4fb8-8b8c-279316b461c5.png)
+![image](https://user-images.githubusercontent.com/83481679/183075234-3aa322ee-760f-4a83-8b78-c15bf4136d04.png)
 ![image](https://user-images.githubusercontent.com/83481679/183071286-8b84f430-d7a3-45af-93eb-b10f3838bcdc.png)
 ![image](https://user-images.githubusercontent.com/83481679/183071442-e27d56fe-2806-4c47-8884-024d8b830533.png)
 
