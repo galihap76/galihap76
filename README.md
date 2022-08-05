@@ -11,6 +11,8 @@ Hi, my name is galih anggoro prasetya i am a computer student at university STMI
 ![image](https://user-images.githubusercontent.com/83481679/183071286-8b84f430-d7a3-45af-93eb-b10f3838bcdc.png)
 ![image](https://user-images.githubusercontent.com/83481679/183075234-3aa322ee-760f-4a83-8b78-c15bf4136d04.png)
 ![image](https://user-images.githubusercontent.com/83481679/183071442-e27d56fe-2806-4c47-8884-024d8b830533.png)
+![image](https://user-images.githubusercontent.com/83481679/183076748-b9c7badb-812d-4409-b695-99f9ac87321e.png)
+
 
 **Github Stats**
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&bg_color=0000" alt="Galih Anggoro Prasetya github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&langs_count=10&hide=batchfile,pascal,hack,roff,shell,scss&layout=compact&bg_color=0000" /></a> |
