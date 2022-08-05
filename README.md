@@ -19,7 +19,10 @@ Hi, my name is galih anggoro prasetya i am a computer student at university STMI
 
 **How to connect with me**
 
+<a href="https://web.facebook.com/galih.ap.357/"><img align="left" src="https://raw.githubusercontent.com/galihap76/galihap76/main/images/facebook.svg" alt="galihap76 | facebook" width="21px"/></a>
+<a href="https://github.com/galihap76"><img align="left" src="https://raw.githubusercontent.com/galihap76/galihap76/main/images/github.svg" alt="galihap76 | github" width="21px"/></a>
 <a href="https://galihap76.showwcase.com/"><img align="left" src="https://raw.githubusercontent.com/galihap76/galihap76/main/images/showwcase.svg" alt="galihap76 | showwcase" width="21px"/></a>
+<a href="https://galihap76.github.io/"><img align="left" src="https://raw.githubusercontent.com/galihap76/galihap76/main/images/website.svg" alt="galihap76 | website" width="21px"/></a>
 </br>
 
 **Github stats**
