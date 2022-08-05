@@ -4,14 +4,15 @@ Hi, my name is galih anggoro prasetya i am a computer student at university STMI
 
 **Tech Stacks**
 
-![image](https://user-images.githubusercontent.com/83481679/183075479-2562d965-4db6-44e9-bedd-7c2763ba0fc9.png)
-![image](https://user-images.githubusercontent.com/83481679/183075504-fe0216ea-015a-4320-8a3a-532fb9f47a21.png)
-![image](https://user-images.githubusercontent.com/83481679/183071192-341df017-24a4-4554-8ebf-0369de82c1d1.png)
-![image](https://user-images.githubusercontent.com/83481679/183075147-460e041e-d446-4fb8-8b8c-279316b461c5.png)
-![image](https://user-images.githubusercontent.com/83481679/183071286-8b84f430-d7a3-45af-93eb-b10f3838bcdc.png)
-![image](https://user-images.githubusercontent.com/83481679/183075234-3aa322ee-760f-4a83-8b78-c15bf4136d04.png)
-![image](https://user-images.githubusercontent.com/83481679/183071442-e27d56fe-2806-4c47-8884-024d8b830533.png)
-![image](https://user-images.githubusercontent.com/83481679/183076748-b9c7badb-812d-4409-b695-99f9ac87321e.png)
+![image](https://user-images.githubusercontent.com/83481679/183076878-ed611d85-2424-4b42-80d0-dc61d972af43.png)
+![image](https://user-images.githubusercontent.com/83481679/183076913-0b3c5047-e253-4f3b-96cb-2cd24338af6a.png)
+![image](https://user-images.githubusercontent.com/83481679/183076945-3ec778a1-11d5-4222-b36f-565dd9fa4efb.png)
+![image](https://user-images.githubusercontent.com/83481679/183076974-56ff6959-4c80-4675-a2ab-bff3bd56b18d.png)
+![image](https://user-images.githubusercontent.com/83481679/183077056-31192f46-06b9-4fb9-92ef-f9c88a243c6f.png)
+![image](https://user-images.githubusercontent.com/83481679/183076993-7bd0f9d3-65c6-4640-a2e6-bccc6ad7688a.png)
+![image](https://user-images.githubusercontent.com/83481679/183077098-34965302-9833-4d6d-93d4-6dbdfc327478.png)
+
+
 
 
 **Github Stats**
