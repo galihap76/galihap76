@@ -14,9 +14,11 @@ Hi, my name is galih anggoro prasetya i am a computer student at university STMI
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/codeigniter-%23F05033.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Brackets](https://img.shields.io/badge/Brackets-3283a8?style=for-the-badge?logo=brackets&logoColor=white)
 ![Xampp](https://img.shields.io/badge/Xampp-fc6f03?style=for-the-badge&logo=xampp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **How to connect with me**
 
