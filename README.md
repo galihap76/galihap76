@@ -1,4 +1,5 @@
 <h2> Hello there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+![image](https://user-images.githubusercontent.com/83481679/183208773-461b0243-0078-414f-a438-ec3a6c2a1e40.png)
 
 Hi, my name is galih anggoro prasetya i am a computer student at university STMIK YMI TEGAL. I'm now currently learn back end developer. I have dream become a programmer like my father because i like learn about software development and web development. I also learn about penetration testing and content writer.
 
@@ -16,9 +17,6 @@ Hi, my name is galih anggoro prasetya i am a computer student at university STMI
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Xampp](https://img.shields.io/badge/Xampp-fc6f03?style=for-the-badge&logo=xampp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-
-**How To Connect With Me**
-[website]: https://galihap76.github.io/portofolio-ku.html
 
 **Github Stats**
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&bg_color=0000" alt="Galih Anggoro Prasetya github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&langs_count=10&hide=batchfile,pascal,hack,roff,shell,scss&layout=compact&bg_color=0000" /></a> |
