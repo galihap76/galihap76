@@ -17,6 +17,10 @@ Hi, my name is galih anggoro prasetya i am a computer student at university STMI
 ![Xampp](https://img.shields.io/badge/Xampp-fc6f03?style=for-the-badge&logo=xampp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+**How to connect with me**
+
+<a href="https://galihap76.showwcase.com/"><img align="left" src="https://raw.githubusercontent.com/galihap76/galihap76/main/images/showwcase.svg" alt="galihap76 | showwcase" width="21px"/></a>
+
 **Github Stats**
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&bg_color=0000" alt="Galih Anggoro Prasetya github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&langs_count=10&hide=batchfile,pascal,hack,roff,shell,scss&layout=compact&bg_color=0000" /></a> |
 | ------------- | ------------- |
