@@ -8,7 +8,7 @@ Hi, my name is galih anggoro prasetya i am a computer student at university STMI
 ![image](https://user-images.githubusercontent.com/83481679/183078176-1973f3de-17d2-460a-bf05-bd50ff18ad19.png)
 ![image](https://user-images.githubusercontent.com/83481679/183078455-ad9baede-1072-4d29-8d8a-883159a36934.png)
 ![image](https://user-images.githubusercontent.com/83481679/183078236-82561588-37bd-4ba0-96b7-dd086398edb5.png)
-![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-808080?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/codeigniter-%23F05033.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 
