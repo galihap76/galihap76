@@ -19,7 +19,7 @@ Hi, my name is galih anggoro prasetya i am a computer student at university STMI
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Synk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
 ![Google chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
-![Brave](https://img.shields.io/badge/Brave-f56942?style=for-the-badge&logo=Brave&logoColor=white)
+![Brave](https://img.shields.io/badge/Brave-f56042?style=for-the-badge&logo=Brave&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
