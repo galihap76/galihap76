@@ -14,7 +14,7 @@ Hi, my name is galih anggoro prasetya i am a computer student at university STMI
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/codeigniter-%23F05033.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![Xampp](https://img.shields.io/badge/Xampp-FF2D20?style=for-the-badge&logo=xampp&logoColor=white)
+![Xampp](https://img.shields.io/badge/Xampp-fc6f03?style=for-the-badge&logo=xampp&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 **Github Stats**
