@@ -4,15 +4,15 @@ Hi, my name is galih anggoro prasetya i am a computer student at university STMI
 
 **Tech Stacks**
 
-![html5](https://user-images.githubusercontent.com/83481679/186558210-27aac10f-8b1b-4319-a3a7-cebac060f93a.png)
-![css3](https://user-images.githubusercontent.com/83481679/186558290-b9279f20-f1f5-4d1e-ad03-633d660e75a8.png)
-![javascript](https://user-images.githubusercontent.com/83481679/186558310-e0ecdf02-4e8c-430c-b6e0-c150e6c59be4.png)
-![php](https://user-images.githubusercontent.com/83481679/186558679-22d5d129-569f-4bca-b5b9-f8a9d95d552e.png)
-![python](https://user-images.githubusercontent.com/83481679/186558461-541f9d70-36ea-43b6-9432-ac351190b7a0.png)
-![mysql](https://user-images.githubusercontent.com/83481679/186558470-5264c056-5df9-4722-982a-3292e9d92af2.png)
-![bootstrap](https://user-images.githubusercontent.com/83481679/186558481-e0483c18-26ca-47c2-bb7f-49208ece05e0.png)
-![jquery](https://user-images.githubusercontent.com/83481679/186558497-4b3fa398-e0ca-4844-8024-9258779228db.png)
-![codeigniter](https://user-images.githubusercontent.com/83481679/186558506-91e6b178-c959-4032-8925-ba16cf62a221.png)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JQUERY](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
 
 **How to connect with me**
 
