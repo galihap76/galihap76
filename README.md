@@ -1,6 +1,6 @@
 <h2> Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-Hi, my name is galih anggoro prasetya i am a computer student at university STMIK YMI TEGAL. I'm now currently learn back end developer. I have dream become a programmer like my father because i like learn about software development and web development. I also learn about penetration testing and content writer.
+I Love programming and penetration testing.
 
 **Tech Stacks**
 
