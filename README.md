@@ -1,8 +1,13 @@
 <h2> Hi there <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-I am a just computer student and currently learn backend developer.
+**About Me**
 
-**Tech Stacks**
+- 👦 I am a computer student 
+- ❤️ I love writing code
+- 🌱 Currently learning back end developer
+- 💻 Always keep learning about computer and programming
+
+**Technical Skills**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
