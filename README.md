@@ -2,7 +2,7 @@
 
 **About me**
 
-- 👦 I am a computer student 
+- 👦 I am a computer student and software developer <a href="https://github.com/De-Technocrats">de-technocrats</a>
 - ❤️ I love writing code
 - 🌱 Currently learning back end developer
 - 💻 Always keep learning about computer and programming
