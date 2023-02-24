@@ -2,10 +2,7 @@
 
 **About me**
 
-- 👦 I am a computer student and software developer at <a href="https://github.com/De-Technocrats">de-technocrats</a>
-- ❤️ I love writing code
-- 🌱 Currently learning back end developer
-- 💻 Always keep learning about computer and programming
+My name is galih anggoro prasetya. I aspire to become a computer programmer like my father. I have had an interest in learning programming and computers for a long time. Currently, I am focused on deepening my knowledge in back end development. I also enjoy learning penetration testing to protect myself from malicious hackers.
 
 **How to connect with me**
 
