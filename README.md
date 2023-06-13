@@ -2,9 +2,7 @@
 
 **About me**
 
-My name is galih anggoro prasetya. I aspire to become a computer programmer like my father. I have had an interest in learning programming and computers for a long time. Currently, I am focused on deepening my knowledge in back end development. I also enjoy learning penetration testing to protect myself from malicious hackers.
-
-I have also joined a community and github organization called <a href="https://github.com/De-Technocrats">de technocrats</a> which discusses software development, hardware, hacking, computer security, networking, and other technology related topics. I am registered as a software developer responsible for building educational and open source software.
+I am excited to learn back end development using the PHP programming language and the laravel framework. Additionally, I am interested in learning penetration testing to protect myself from malicious hackers. I am registered as a programmer in the github organization called <a href="https://github.com/De-Technocrats">de technocrats</a>.
 
 **How to connect with me**
 
