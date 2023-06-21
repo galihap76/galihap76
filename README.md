@@ -7,7 +7,6 @@ I am excited to learn back end development using the PHP programming language an
 **How to connect with me**
 
 <a href="https://web.facebook.com/galih.ap.357/"><img align="left" src="https://raw.githubusercontent.com/galihap76/galihap76/main/images/facebook.svg" alt="galihap76 | facebook" width="21px"/></a>
-<a href="https://github.com/galihap76"><img align="left" src="https://raw.githubusercontent.com/galihap76/galihap76/main/images/github.svg" alt="galihap76 | github" width="21px"/></a>
 <a href="https://galihap76.showwcase.com/"><img align="left" src="https://raw.githubusercontent.com/galihap76/galihap76/main/images/showwcase.svg" alt="galihap76 | showwcase" width="21px"/></a>
 </br>
 
