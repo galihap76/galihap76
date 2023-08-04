@@ -4,4 +4,4 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&bg_color=0000" alt="Galih Anggoro Prasetya github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&langs_count=10&hide=batchfile,pascal,hack,roff,shell,scss,jupyter%20notebook&layout=compact&bg_color=0000" /></a> |
 | ------------- | ------------- |
 
-Note : the top languages metric only reflects the languages present in my public code and doesn't necessarily indicate my experience or skill level.
+> The top languages metric only reflects the languages present in my public code and doesn't necessarily indicate my experience or skill level.
