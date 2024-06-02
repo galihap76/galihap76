@@ -15,4 +15,4 @@ Hello, my name is Galih Anggoro Prasetya. I am interested in backend development
 
 <hr/>
 
-> The top languages metric only reflects the languages present in my public code and doesn't necessarily indicate my experience or skill level. Lastly, most project repositories use the Indonesian language. English is only used in specific cases for foreign individuals.
+> The top languages metric only reflects the languages present in my public code and doesn't necessarily indicate my experience or skill level. Lastly, most project repositories use the Indonesian language. A repository project that uses English is intended for all countries.
