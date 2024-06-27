@@ -10,9 +10,9 @@ Hello, my name is Galih Anggoro Prasetya. I am interested in backend development
 
 **Github Stats**
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&bg_color=0000&include_all_commits=true&rank_icon=github" alt="Galih Anggoro Prasetya github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&langs_count=10&hide=batchfile,pascal,hack,roff,shell,scss,jupyter%20notebook&layout=compact&bg_color=0000" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&bg_color=0000&include_all_commits=true&rank_icon=github" alt="Galih Anggoro Prasetya github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&langs_count=10&hide_progress=true&hide=batchfile,java,pascal,hack,roff,shell,scss,jupyter%20notebook&layout=compact&bg_color=0000" /></a> |
 | ------------- | ------------- |
 
 <hr/>
 
-> The top languages metric only reflects the languages present in my public code and doesn't necessarily indicate my experience or skill level. Lastly, most project repositories use the Indonesian language. A repository project that uses English is intended for all countries.
+> Most project repositories use the Indonesian language. A repository project that uses English is intended for all countries.
