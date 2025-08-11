@@ -4,7 +4,7 @@
 
 **Little About Me**
 
-I have a strong interest in backend development and penetration testing. My main focus in backend development is using Laravel, while also using various ethical hacking tools to test and enhance computer system security. I am also a developer and the founder of <a href="https://webnikahanku.com/" target="_blank">WebNikahanku</a>, a digital invitation SaaS product that I personally developed.
+I have a strong interest in backend development and penetration testing. My main focus in backend development is using Laravel, while also using various ethical hacking tools to test and enhance computer system security. I am also a developer and the founder of <a href="https://webnikahanku.com/">WebNikahanku</a>, a digital invitation SaaS product that I personally developed.
 
 <hr/>
 
