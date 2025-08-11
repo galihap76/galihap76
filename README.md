@@ -4,7 +4,7 @@
 
 **Little About Me**
 
-Hello, my name is Galih Anggoro Prasetya. I am interested in backend development and penetration testing. The backend technologies I often use are Laravel and MySQL. In penetration testing, I use Python to create exploits to exploit vulnerabilities in the system. The purpose is to identify that existing vulnerabilities need to be fixed. Although mostly, I use available penetration testing tools to speed up the process.
+I have a strong interest in backend development and penetration testing. My main focus in backend development is using Laravel, while also using various ethical hacking tools to test and enhance computer system security. I am also a developer and the founder of <a href="https://webnikahanku.com/" target="_blank">WebNikahanku</a>, a digital invitation SaaS product that I personally developed.
 
 <hr/>
 
