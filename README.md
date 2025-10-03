@@ -1,4 +1,4 @@
-<img width="1700" height="460" alt="github-header-banner" src="https://github.com/user-attachments/assets/ff85e1bb-b791-4537-a6b2-df63632cefc7" />
+![readmebox](https://github.com/galihap76/galihap76/assets/83481679/e1585443-d73e-43e8-a952-1dc6d4ea327e)
 
 <hr/>
 
