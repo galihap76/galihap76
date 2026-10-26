@@ -1,18 +1,42 @@
-![readmebox](https://github.com/galihap76/galihap76/assets/83481679/e1585443-d73e-43e8-a952-1dc6d4ea327e)
+# Hi, I'm Galih 👋
 
-<hr/>
+**Backend Developer | PHP & Laravel | Application Security**
 
-**Little About Me**
+I'm a developer interested in building web applications, designing backend systems, and exploring application security. I primarily work with PHP and Laravel, with an interest in ethical penetration testing and web security. I've also built independent projects including WebNikahanku a digital invitation SaaS that I previously developed and operated. 
 
-I have a strong interest in backend development and penetration testing. My main focus in backend development is using Laravel, while also using various ethical hacking tools to test and enhance computer system security. I am also a developer and the founder of <a href="https://webnikahanku.com/">WebNikahanku</a>, a digital invitation SaaS product that I personally developed.
+## What I Work On
 
-<hr/>
+- **Backend Development** — Building web applications and backend systems with PHP and Laravel.
+- **Application Security** — Exploring security testing and vulnerability assessment in authorized environments.
+- **Independent Projects** — Developing personal projects and working on private client projects.
 
-**Github Stats**
+## Projects
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&bg_color=0000&include_all_commits=true&rank_icon=github" alt="Galih Anggoro Prasetya github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&langs_count=10&hide_progress=true&hide=batchfile,java,pascal,hack,roff,shell,scss,jupyter%20notebook&layout=compact&bg_color=0000" /></a> |
-| ------------- | ------------- |
+I work on both public and private projects. Some repositories are kept private, while selected projects and additional details are available on my personal website.
 
-<hr/>
+🌐 **Portfolio & Projects:** [Visit my website](https://galihdev.my.id/)
 
-> Most project repositories use the Indonesian language. A repository project that uses English is intended for all countries.
+## Tech Stack
+
+**Primary Stack**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" alt="Primary Stack: PHP, Laravel, MySQL" />
+</p>
+
+**Other Technologies I've Used**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,postgresql,bootstrap,tailwindcss,react,jquery,html,css,git,github,postman" alt="Other Technologies" />
+</p>
+
+## GitHub Stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&layout=compact&hide_border=true&bg_color=00000000" alt="Top Languages" />
+</p>
+
+---
+
+<sub>Most of my project documentation is written in Indonesian. Projects documented in English are intended for a broader international audience.</sub>
