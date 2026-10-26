@@ -32,10 +32,20 @@ I work on both public and private projects. Some repositories are kept private, 
 
 ## GitHub Stats
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&layout=compact&hide_border=true&bg_color=00000000" alt="Top Languages" />
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=galihap76&show_icons=true&rank_icon=github&hide_border=true&bg_color=00000000"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihap76&layout=compact&langs_count=3&hide=Python,Jupyter%20Notebook,css,html,pascal&size_weight=0.5&count_weight=0.5&hide_border=true&bg_color=00000000"
+    alt="Most Used Languages"
+  />
 </p>
+
 
 ---
 
